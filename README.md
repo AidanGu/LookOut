@@ -5,3 +5,13 @@
 > Voice-powered guidance for blind and low-vision users, combining real-time computer vision with turn-taking voice and Google Maps navigation.
 
 ---
+
+## Setup
+
+### Prerequisites
+- Node.js ≥ 18 and npm (or pnpm)
+- Python ≥ 3.11
+- LiveKit Cloud project credentials
+- Google API keys (Gemini + Maps)
+
+---
