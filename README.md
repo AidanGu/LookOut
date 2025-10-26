@@ -1,4 +1,5 @@
 # [LookOut](https://olookout.tech/)
+# oLookOut.tech
 
 **Contributors:** [Gauri Jain](https://github.com/gaurijain21) · [Samanyu Kumar](https://github.com/samanyuk) · [Victor Cruz](https://github.com/Victor20120) · [Aidan Gu](https://github.com/AidanGu)
 
